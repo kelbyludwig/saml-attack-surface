@@ -33,3 +33,15 @@
 * Description: Signatures are validated, but the signing party is not properly authenticated.
 * Impact: An attacker can generate certificate and self-sign XML documents.
 * Reference: [Verification of SAML Tokens - Traps and Pitfalls](https://web-in-security.blogspot.com/2014/10/verification-of-saml-tokens-traps-and.html)
+
+## other references
+
+* [Exploiting XXE in SAML](https://web-in-security.blogspot.com/2014/11/detecting-and-exploiting-xxe-in-saml.html)
+
+* [XML Signature Wrapping](https://www.usenix.org/system/files/conference/usenixsecurity12/sec12-final91.pdf) 
+
+* [SAML Security Cheat Sheet](https://www.owasp.org/index.php/SAML_Security_Cheat_Sheet)
+
+* [XML Parser Vulns](https://www.usenix.org/system/files/conference/woot16/woot16-paper-spath.pdf) 
+
+* [Breaking the SAML-based Single Sign-On for Google Apps](http://www.avantssar.eu/pdf/publications/saml-sso.pdf)
